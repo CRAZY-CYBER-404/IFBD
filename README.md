@@ -24,6 +24,6 @@ cd IFBD
 
 git pull
 
-python BDMC.py
+python IFBD.py
 
 ```
